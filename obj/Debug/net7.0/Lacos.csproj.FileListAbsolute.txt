@@ -1,0 +1,15 @@
+/home/scurvyy/dev/dotnet/Lacos/bin/Debug/net7.0/Lacos
+/home/scurvyy/dev/dotnet/Lacos/bin/Debug/net7.0/Lacos.deps.json
+/home/scurvyy/dev/dotnet/Lacos/bin/Debug/net7.0/Lacos.runtimeconfig.json
+/home/scurvyy/dev/dotnet/Lacos/bin/Debug/net7.0/Lacos.dll
+/home/scurvyy/dev/dotnet/Lacos/bin/Debug/net7.0/Lacos.pdb
+/home/scurvyy/dev/dotnet/Lacos/obj/Debug/net7.0/Lacos.csproj.AssemblyReference.cache
+/home/scurvyy/dev/dotnet/Lacos/obj/Debug/net7.0/Lacos.GeneratedMSBuildEditorConfig.editorconfig
+/home/scurvyy/dev/dotnet/Lacos/obj/Debug/net7.0/Lacos.AssemblyInfoInputs.cache
+/home/scurvyy/dev/dotnet/Lacos/obj/Debug/net7.0/Lacos.AssemblyInfo.cs
+/home/scurvyy/dev/dotnet/Lacos/obj/Debug/net7.0/Lacos.csproj.CoreCompileInputs.cache
+/home/scurvyy/dev/dotnet/Lacos/obj/Debug/net7.0/Lacos.dll
+/home/scurvyy/dev/dotnet/Lacos/obj/Debug/net7.0/refint/Lacos.dll
+/home/scurvyy/dev/dotnet/Lacos/obj/Debug/net7.0/Lacos.pdb
+/home/scurvyy/dev/dotnet/Lacos/obj/Debug/net7.0/Lacos.genruntimeconfig.cache
+/home/scurvyy/dev/dotnet/Lacos/obj/Debug/net7.0/ref/Lacos.dll
