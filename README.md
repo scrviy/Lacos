@@ -9,3 +9,5 @@
 ---
 
 ### Laços Condicionais
+
+- Laços ***condicionais*** se resume a uma **execução de um bloco de código determinada condição satisfeita**.
