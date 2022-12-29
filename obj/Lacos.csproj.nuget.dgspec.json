@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/scurvyy/dev/dotnet/Lacos/Lacos.csproj": {}
+    "/home/scurvyy/dev/dotnet/Lacos/Lacos/Lacos.csproj": {}
   },
   "projects": {
-    "/home/scurvyy/dev/dotnet/Lacos/Lacos.csproj": {
+    "/home/scurvyy/dev/dotnet/Lacos/Lacos/Lacos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/scurvyy/dev/dotnet/Lacos/Lacos.csproj",
+        "projectUniqueName": "/home/scurvyy/dev/dotnet/Lacos/Lacos/Lacos.csproj",
         "projectName": "Lacos",
-        "projectPath": "/home/scurvyy/dev/dotnet/Lacos/Lacos.csproj",
+        "projectPath": "/home/scurvyy/dev/dotnet/Lacos/Lacos/Lacos.csproj",
         "packagesPath": "/home/scurvyy/.nuget/packages/",
-        "outputPath": "/home/scurvyy/dev/dotnet/Lacos/obj/",
+        "outputPath": "/home/scurvyy/dev/dotnet/Lacos/Lacos/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/scurvyy/.nuget/NuGet/NuGet.Config"
