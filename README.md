@@ -1,4 +1,7 @@
 # Laços
+_Neste repositório, escrevi um pouco sobre os loops/laços de repetição e condicionais em programação, no geral. Apresento alguns conceitos escritos sobre os Laços Iterativos e Laços Condicionais, que são utilizados para se tomar decisões durante a execução de um código específico._ 
+
+___
 
 ### Laços Iterativos
 - *Estruturas que repetem um bloco de código, determinado número de vezes*.
