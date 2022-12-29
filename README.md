@@ -16,4 +16,4 @@ ___
 - Laços ***condicionais*** se resume a uma **execução de um bloco de código determinada condição satisfeita**.
 - ***If()*** - O if se baseia em uma condição que se for verdadeira, executa uma decisão, dentro de um bloco de código.
 - ***Else()*** - O else é baseado no caso de uma condição seja falsa, ou seja, ele irá executar o bloco de código que executa uma decisão contrária ao if. 
-- ***Elseif()*** -  
+- ***Elseif()*** -  O elseif se apresenta como uma terceira opção e alternativa ao if e else. Ele será executado quando o if se tornar falsa. O if e elseif podem ser executados durante um bloco de código, porém, eles nunca serão executados em conjunto.
