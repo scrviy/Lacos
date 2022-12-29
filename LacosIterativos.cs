@@ -1,5 +1,5 @@
-using System;
-namespace Lacos
+
+namespace LacosIterativos
 {
     public class Lacos
     {
