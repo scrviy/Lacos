@@ -40,6 +40,14 @@ namespace Lacos
                 Console.WriteLine("Esse elemento tem valor " + numero + "! Somando esse valor a 10 temos " +
                 (numero + 10));
             }
+
+
+            // Laços condicionais
+            int number = 10;
+            if (number <= 100)
+            {
+                Console.WriteLine("menor");
+            }
         }
     }
 
