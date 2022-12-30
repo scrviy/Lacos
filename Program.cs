@@ -6,14 +6,15 @@ namespace Lacos
     {
         static void Main(string[] args)
         {
-            // Lacos Iterativos
-            // Laco For
+            //* Lacos Iterativos
+            
+            //For
             for (int i = 0; i < 5; i++)
             {
                 Console.WriteLine("o valor de i é " + i);
             }
 
-            // Laco While
+            //While
             int contador = 3;
             while (contador < 10)
             {
@@ -22,7 +23,6 @@ namespace Lacos
             }
 
             //Do .... while
-            // execução garantida por pelo menos uma vez. Execute primeiro e depois testa a condicao.
             double j = 10;
             do 
             {
@@ -31,8 +31,7 @@ namespace Lacos
             }
             while ( j < 100 );
 
-            // foreach
-            // percorre todos os elementos de um conjunto
+            //foreach
             int[] conjunto = { 1, 2, 3, 7 };
 
             foreach (int numero in conjunto)
@@ -42,12 +41,13 @@ namespace Lacos
             }
 
 
-            // Laços condicionais
-            int number = 10;
-            if (number <= 100)
-            {
-                Console.WriteLine("menor");
-            }
+            // Lacos condicionais
+            int hora = 13;
+            if (hora >= 15) //* Se a hora for maior ou igual a 15, será impressa a mensagem no console para usuário.
+                Console.WriteLine("Já são 15H ou mais.");
+
+            if (hora == 13)
+                Console.WriteLine("A hora é igual a 13 Horas");
         }
     }
 

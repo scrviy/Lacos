@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "55ROIWILl32siDNBjspFhNDUu54fUoZMTc6ZfxCVl+JybfLYjb33GlV8FyH+DwXu19M1ztVMioDf3gA+Aii7ug==",
+  "dgSpecHash": "JxnyGmuPil9aSIO24zZolk7Ak1GQZ+DCbrTjb8Sz3sSdcn4rab0dBAY9Iypv5hIKOm59E+zPjbV6wU2mifmr/Q==",
   "success": true,
-  "projectFilePath": "/home/scurvyy/dev/dotnet/Lacos/Lacos/Lacos.csproj",
+  "projectFilePath": "/home/scurvyy/dev/dotnet/Lacos/Lacos.csproj",
   "expectedPackageFiles": [
     "/home/scurvyy/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.1/microsoft.aspnetcore.app.ref.7.0.1.nupkg.sha512"
   ],
