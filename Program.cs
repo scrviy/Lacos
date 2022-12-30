@@ -7,7 +7,9 @@ namespace Lacos
         static void Main(string[] args)
         {
             //* Lacos Iterativos
-            
+
+            /*
+
             //For
             for (int i = 0; i < 5; i++)
             {
@@ -40,14 +42,40 @@ namespace Lacos
                 (numero + 10));
             }
 
+                */
 
             // Lacos condicionais
-            int hora = 13;
-            if (hora >= 15) //* Se a hora for maior ou igual a 15, será impressa a mensagem no console para usuário.
-                Console.WriteLine("Já são 15H ou mais.");
+            // Lacos if - elseif - else
+           
+            int hora = 18;
 
-            if (hora == 13)
-                Console.WriteLine("A hora é igual a 13 Horas");
+            /*
+            if (hora <= 15) //* Se a hora for menor ou igual a 15, será impressa a mensagem no console para usuário.
+                Console.WriteLine("São menos que 15H.");
+
+            else if (hora <= 17)
+                Console.WriteLine("A hora é menor ou igual a 17!");
+
+            else // o else garante a execucao do bloco de código seguinte a ele.
+                {
+                    if (hora == 18)
+                        Console.WriteLine("São 18H.");
+                    else
+                        Console.WriteLine("Já passou das 18H");
+                }
+                */
+
+            // laco switch
+            switch (hora) // teste condicional é exato
+            {
+                case 15:
+                    Console.WriteLine("São 15H.");
+                    break;
+
+                case 18:
+                    Console.WriteLine("São 18H");
+                    break;
+            }
         }
     }
 
