@@ -8,7 +8,7 @@ namespace Lacos
         {
             //* Lacos Iterativos
 
-            /*
+            
 
             //For
             for (int i = 0; i < 5; i++)
@@ -42,14 +42,14 @@ namespace Lacos
                 (numero + 10));
             }
 
-                */
 
-            // Lacos condicionais
+
+            //* Lacos condicionais
             // Lacos if - elseif - else
            
-            int hora = 18;
+             int hora = 18;
 
-            /*
+            
             if (hora <= 15) //* Se a hora for menor ou igual a 15, será impressa a mensagem no console para usuário.
                 Console.WriteLine("São menos que 15H.");
 
@@ -63,12 +63,12 @@ namespace Lacos
                     else
                         Console.WriteLine("Já passou das 18H");
                 }
-                */
+                
 
-            // laco switch
+            //* laco switch
             switch (hora) // teste condicional é exato
             {
-                case 15:
+                case 15: // No switch, geralmente, a expressão avaliada é uma constante.
                     Console.WriteLine("São 15H.");
                     break;
 
@@ -76,7 +76,41 @@ namespace Lacos
                     Console.WriteLine("São 18H");
                     break;
             }
+
+            SegundoSemestre mes = SegundoSemestre.Julho;
+            if (mes == SegundoSemestre.Setembro)
+            {
+                Console.WriteLine("Estamos em Setembro com o if.");
+            }
+            else if (mes == SegundoSemestre.Setembro)
+            {
+                Console.WriteLine("Estamos em Setembro.");
+            }
+
+            switch (mes)
+            {
+                case SegundoSemestre.Julho:
+                    Console.WriteLine("Estamos em Julho!");
+                    break;
+                
+                case SegundoSemestre.Agosto:
+                    Console.WriteLine("Estamos em Agosto!");
+                    break;
+
+                case SegundoSemestre.Setembro:
+                    Console.WriteLine("Estamos em Setembro!");
+                    break;
+
+                default: // será executado se nenhum dos outros será satisfeitos.
+                    Console.WriteLine("O mês atual não é nem Julho, Agosto ou Setembro. O mês é " + mes + ".");
+                    break;
+            }
         }
+       
     }
 
+    public enum SegundoSemestre
+    {
+        Julho, Agosto, Setembro, Outubro, Novembro, Dezembro
+    }
 }
